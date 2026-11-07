@@ -6,9 +6,7 @@ AIdrobe is a local wardrobe management & outfit recommendation tool developed by
 AIdrobe (AI + wardrobe) is a local, high-availability Agentic Workflow. AI deeply participates in intake, outfit decisions, and purchase advice. It's a shared family digital closet that understands context-aware decisions, not just storage.
 ====================================================
 To lower the barrier, intake is simplified (one photo for one-click intake), while recommendation quality is maximized for ease of use.
-
 Hope everyone easily finds their perfect outfit!
-====================================================
 
 It solves 3 problems:
 
@@ -53,7 +51,6 @@ Backend auto-exits when webpage closes.
 
 
 AIdrobe —— 你的个人本地智能衣橱
-
 ====================================================
 AIdrobe 是一个本地运行的衣橱管理与穿搭推荐工具，由 Neutrino 于其攻读 PhD 的闲
 暇时间开发，献给 Cindy 及具有同类需求的用户。
@@ -67,7 +64,6 @@ AIdrobe 由 AI 与 wardrobe 两词拼合而成，其特点是能够反复调用A
 照片即可一键入库），另一方面竭尽所能提升了推荐的质量，尽可能能用、好用、易用。
 
 祝每个人都能方便快捷地穿上满意的搭配！
-====================================================
 
 它针对三类具体问题：
 
