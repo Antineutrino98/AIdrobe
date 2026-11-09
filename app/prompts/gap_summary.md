@@ -1,0 +1,1 @@
+Given wardrobe coverage statistics, write a short Chinese gap report (2-4 sentences). Be specific about which category/scene/temperature range is weak, and what type of item would fill the gap. Do not recommend specific products or brands. Do not exaggerate; only state what the statistics support.

@@ -1,4 +1,29 @@
+# ---- 敏感信息与本地运行数据（绝不入库）----
 .env
 data/
 logs/
-.exe
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# ---- Node / 前端构建产物（Release 包才带 dist）----
+node_modules/
+frontend/dist/
+frontend/dist_*/
+
+# ---- PyInstaller 打包工作目录与产物 ----
+build_exe/
+AIdrobe.exe
+*.spec.bak
+
+# ---- 压缩包 / 备份 ----
+*.zip
+backups/
+
+# ---- 系统 ----
+Thumbs.db
+.DS_Store
